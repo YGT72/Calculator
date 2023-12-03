@@ -1,0 +1,4 @@
+﻿  Calculator.cpp
+C:\Users\6buzz\Desktop\Coding projects\C++\Calculator\Calculator\Calculator.cpp(52,9): warning C4551: function call missing argument list
+C:\Users\6buzz\Desktop\Coding projects\C++\Calculator\Calculator\Calculator.cpp(123,9): warning C4551: function call missing argument list
+  Calculator.vcxproj -> C:\Users\6buzz\Desktop\Coding projects\C++\Calculator\Debug\Calculator.exe
